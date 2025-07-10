@@ -1,0 +1,29 @@
+[
+  {
+    "feature_name": "AI Agent for FAQ & First Response",
+    "category": "AI Customer Service - AI Inbox",
+    "description": "AI tự động trả lời câu hỏi thường gặp.",
+    "how_it_helps": "Giảm tải cho nhân viên, trả lời tự động các câu hỏi lặp lại.",
+    "link": "https://docs.filum.ai/features/ai-inbox",
+    "relevance_score": 27.0,
+    "explanation": "Pain point gần giống ví dụ: Nhân viên hỗ trợ bị quá tải câu hỏi lặp lại, Khách hỏi lại nhiều câu giống nhau; Context trùng: email, b2c"
+  },
+  {
+    "feature_name": "Ticket Management System",
+    "category": "AI Customer Service - Tickets",
+    "description": "Hệ thống quản lý ticket toàn diện cho CSKH.",
+    "how_it_helps": "Tập trung hóa và tối ưu hóa quy trình xử lý yêu cầu/hỗ trợ khách hàng.",
+    "link": "https://docs.filum.ai/features/tickets",
+    "relevance_score": 9.0,
+    "explanation": "Pain point gần giống ví dụ: Khó kiểm soát trạng thái yêu cầu hỗ trợ, Nhân viên bỏ sót hoặc xử lý trùng ticket; Context trùng: email, b2c"
+  },
+  {
+    "feature_name": "AI & Automation Settings",
+    "category": "AI & Automation",
+    "description": "Tuỳ chỉnh mô hình AI và tự động hóa quy trình trải nghiệm khách hàng.",
+    "how_it_helps": "Tối ưu hoá hiệu suất, giảm thao tác thủ công, tự động hoá các bước lặp lại.",
+    "link": "https://docs.filum.ai/features/automation",
+    "relevance_score": 4.5,
+    "explanation": "Pain point gần giống ví dụ: Mất nhiều thời gian cho thao tác lặp lại; Context trùng: b2c"
+  }
+]

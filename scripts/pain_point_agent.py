@@ -86,6 +86,7 @@ def match_pain_point(pain_point, features, context=None, top_n=3):
 if __name__ == "__main__":
     path = '../database/features.json'
     features = load_db(path)
+
     input_json = {
         "pain_point": "Nhân viên hỗ trợ bị quá tải câu hỏi lặp lại",
         "context": {
@@ -93,7 +94,10 @@ if __name__ == "__main__":
             "customer_type": "B2C"
         }
     }
+
     output = match_pain_point(input_json["pain_point"], features, input_json.get("context"))
     print(json.dumps(output, ensure_ascii=False, indent=2))
+    with open('../output/output.json', 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
 
 # python pain_point_agent.py
