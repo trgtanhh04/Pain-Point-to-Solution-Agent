@@ -1,0 +1,152 @@
+[
+  {
+    "feature_id": "voc_surveys_auto",
+    "feature_name": "Automated Post-Purchase Surveys",
+    "category": "VoC - Surveys",
+    "keywords": ["survey", "feedback", "post-purchase", "customer response", "sms", "email"],
+    "description": "Tự động gửi khảo sát sau giao dịch.",
+    "how_it_helps": "Thu thập phản hồi khách hàng mọi lúc, mọi nơi.",
+    "link": "https://docs.filum.ai/features/surveys",
+    "example_pain_points": [
+      "Khó thu thập phản hồi khách hàng sau mua hàng",
+      "Khách không trả lời khảo sát"
+    ],
+    "channels": ["email", "sms", "web"],
+    "customer_types": ["B2C", "B2B"]
+  },
+  {
+    "feature_id": "ai_inbox_faq",
+    "feature_name": "AI Agent for FAQ & First Response",
+    "category": "AI Customer Service - AI Inbox",
+    "keywords": ["ai", "faq", "chatbot", "first response", "repetitive questions", "support"],
+    "description": "AI tự động trả lời câu hỏi thường gặp.",
+    "how_it_helps": "Giảm tải cho nhân viên, trả lời tự động các câu hỏi lặp lại.",
+    "link": "https://docs.filum.ai/features/ai-inbox",
+    "example_pain_points": [
+      "Nhân viên hỗ trợ bị quá tải câu hỏi lặp lại",
+      "Khách hỏi lại nhiều câu giống nhau"
+    ],
+    "channels": ["email", "chat", "web"],
+    "customer_types": ["B2C", "B2B"]
+  },
+  {
+    "feature_id": "insights_journey",
+    "feature_name": "Customer Journey Experience Analysis",
+    "category": "Insights - Experience",
+    "keywords": ["journey", "touchpoint", "frustration", "analysis", "experience"],
+    "description": "Phân tích hành trình khách hàng.",
+    "how_it_helps": "Xác định điểm ma sát gây khó chịu cho khách hàng.",
+    "link": "https://docs.filum.ai/features/journey-analysis",
+    "example_pain_points": [
+      "Không biết điểm chạm nào gây khó chịu",
+      "Khó phân tích hành trình khách hàng"
+    ],
+    "channels": ["web"],
+    "customer_types": ["B2C", "B2B"]
+  },
+  {
+    "feature_id": "customer_360_profile",
+    "feature_name": "Customer Profile with Interaction History",
+    "category": "Customer 360 - Customers & AI Inbox",
+    "keywords": ["customer profile", "interaction history", "touchpoint", "unified view", "data"],
+    "description": "Tổng hợp mọi điểm chạm và lịch sử tương tác khách hàng.",
+    "how_it_helps": "Tra cứu toàn bộ lịch sử khách hàng khi họ liên hệ.",
+    "link": "https://docs.filum.ai/features/customer-360",
+    "example_pain_points": [
+      "Khó tổng hợp lịch sử tương tác khách hàng khi họ liên hệ",
+      "Không có cái nhìn tổng thể về khách hàng"
+    ],
+    "channels": ["email", "chat", "call", "web"],
+    "customer_types": ["B2B", "B2C"]
+  },
+  {
+    "feature_id": "voc_ai_analysis",
+    "feature_name": "AI-Powered Topic & Sentiment Analysis for VoC",
+    "category": "VoC - Conversations/Surveys, Insights - Experience",
+    "keywords": ["ai", "topic analysis", "sentiment", "open-ended", "text feedback"],
+    "description": "AI phân tích chủ đề và cảm xúc khảo sát phản hồi mở.",
+    "how_it_helps": "Tự động trích xuất chủ đề/chỉ số cảm xúc từ phản hồi text.",
+    "link": "https://docs.filum.ai/features/ai-analysis",
+    "example_pain_points": [
+      "Quá tốn thời gian phân tích survey tự do",
+      "Khó xác định chủ đề nổi bật trong phản hồi khách hàng"
+    ],
+    "channels": ["web", "email"],
+    "customer_types": ["B2B", "B2C"]
+  },
+  {
+    "feature_id": "voc_reviews_agg",
+    "feature_name": "Review Aggregation & Analysis",
+    "category": "VoC - Reviews",
+    "keywords": ["review", "aggregation", "platforms", "feedback", "rating", "analysis"],
+    "description": "Tổng hợp và phân tích review từ đa nền tảng (web, app, social, sàn TMĐT...).",
+    "how_it_helps": "Tự động thu thập, tổng hợp và phân tích phản hồi từ nhiều nguồn về một nơi.",
+    "link": "https://docs.filum.ai/features/reviews",
+    "example_pain_points": [
+        "Khó tổng hợp đánh giá khách hàng từ nhiều kênh",
+        "Không phát hiện kịp thời review tiêu cực"
+    ],
+    "channels": ["web", "email", "social", "app"],
+    "customer_types": ["B2C", "B2B"]
+    },
+    {
+    "feature_id": "cs_ticket_management",
+    "feature_name": "Ticket Management System",
+    "category": "AI Customer Service - Tickets",
+    "keywords": ["ticket", "case", "issue tracking", "assignment", "workflow"],
+    "description": "Hệ thống quản lý ticket toàn diện cho CSKH.",
+    "how_it_helps": "Tập trung hóa và tối ưu hóa quy trình xử lý yêu cầu/hỗ trợ khách hàng.",
+    "link": "https://docs.filum.ai/features/tickets",
+    "example_pain_points": [
+        "Khó kiểm soát trạng thái yêu cầu hỗ trợ",
+        "Nhân viên bỏ sót hoặc xử lý trùng ticket"
+    ],
+    "channels": ["email", "chat", "web", "call"],
+    "customer_types": ["B2C", "B2B"]
+    },
+    {
+    "feature_id": "insights_operation_monitor",
+    "feature_name": "Operation Monitoring & Reporting",
+    "category": "Insights - Operation",
+    "keywords": ["dashboard", "monitoring", "survey performance", "campaign", "report"],
+    "description": "Theo dõi hiệu quả survey, chiến dịch, tổng đài và ticket.",
+    "how_it_helps": "Giúp quản lý dễ dàng kiểm soát, phát hiện bất thường trong vận hành.",
+    "link": "https://docs.filum.ai/features/operation",
+    "example_pain_points": [
+        "Không biết chiến dịch survey đang hoạt động ra sao",
+        "Khó phát hiện sớm vấn đề trong tổng đài"
+    ],
+    "channels": ["web"],
+    "customer_types": ["B2C", "B2B"]
+    },
+    {
+    "feature_id": "customer_engagement_campaign",
+    "feature_name": "Customer Engagement Campaign",
+    "category": "Customer 360 - Engagement",
+    "keywords": ["engagement", "campaign", "promotion", "personalization", "targeting"],
+    "description": "Tạo, quản lý và đo lường các chiến dịch tương tác khách hàng.",
+    "how_it_helps": "Tăng tỉ lệ phản hồi và gắn kết khách hàng qua chiến dịch đa kênh cá nhân hóa.",
+    "link": "https://docs.filum.ai/features/engagement",
+    "example_pain_points": [
+        "Khó làm chiến dịch tương tác khách hàng hiệu quả",
+        "Không cá nhân hóa được nội dung gửi"
+    ],
+    "channels": ["email", "sms", "zalo", "web"],
+    "customer_types": ["B2C", "B2B"]
+    },
+    {
+    "feature_id": "ai_automation_settings",
+    "feature_name": "AI & Automation Settings",
+    "category": "AI & Automation",
+    "keywords": ["automation", "ai model", "workflow", "configuration"],
+    "description": "Tuỳ chỉnh mô hình AI và tự động hóa quy trình trải nghiệm khách hàng.",
+    "how_it_helps": "Tối ưu hoá hiệu suất, giảm thao tác thủ công, tự động hoá các bước lặp lại.",
+    "link": "https://docs.filum.ai/features/automation",
+    "example_pain_points": [
+        "Mất nhiều thời gian cho thao tác lặp lại",
+        "Không kiểm soát được luồng xử lý tự động"
+    ],
+    "channels": ["web"],
+    "customer_types": ["B2C", "B2B"]
+    }
+]
