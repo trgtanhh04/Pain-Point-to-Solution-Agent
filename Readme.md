@@ -5,6 +5,23 @@
 Đây là agent nhận **pain point** liên quan đến trải nghiệm khách hàng/dịch vụ khách hàng, sau đó gợi ý các tính năng phù hợp của Filum.ai để giải quyết.
 
 ---
+## Project Structure
+
+```
+PAIN-POINT-AGENT/
+│
+├── database/
+│   └── features.json      # Knowledge base: List of feature descriptions for matching
+│
+├── output/
+│   └── output.json        # Output file: Stores results (top solutions) generated after running the agent
+│
+├── scripts/
+│   └── pain_point_agent.py # Main Python script: The agent logic for matching pain points to features
+│
+└── Readme.md              # This documentation file
+```
+---
 
 ## 2. Hướng dẫn chạy
 
